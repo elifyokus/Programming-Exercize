@@ -22,7 +22,6 @@ table 55100 MyDevCustomer
 
     fieldgroups
     {
-        // Add changes to field groups here
     }
 
     var
